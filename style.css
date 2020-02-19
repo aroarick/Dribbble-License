@@ -64,3 +64,33 @@ body {
   color: black;
   letter-spacing: 20px;
 }
+.license-number-highlight {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 100px;
+  font-weight: bold;
+  position: absolute;
+  top: 140px;
+  left: 115px;
+  color: #cccccc;
+  letter-spacing: 20px;
+}
+
+.top-left-hole {
+  background: black;
+  height: 20px;
+  width: 30px;
+  border-radius: 50%;
+  top: 40px;
+  left: 50px;
+  position: absolute;
+}
+
+.top-right-hole {
+  background: black;
+  height: 20px;
+  width: 30px;
+  border-radius: 50%;
+  top: 40px;
+  left: 700px;
+  position: absolute;
+}
